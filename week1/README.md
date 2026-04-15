@@ -34,18 +34,5 @@ This project focuses on understanding dataset structure, cleaning data, and inte
 
 ---
 
-## 📸 Screenshots
-
-### Dataset Understanding
-![Dataset](dataset.png)
-
-### Data Cleaning
-![Cleaning](Data Cleaning & Preprocessing.png)
-
-### Data Integration
-![Integration](data-integration.png)
-
----
-
 ## 📄 Report
 Full detailed report available in this folder.
