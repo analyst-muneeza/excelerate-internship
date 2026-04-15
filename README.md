@@ -19,7 +19,7 @@ In Week 1, we worked on understanding dataset structure, assessing data quality,
 👉 [Week 1 Folder](./week1)
 
 📄 Full Report:  
-👉 :contentReference[oaicite:0]{index=0}
+👉 https://github.com/analyst-muneeza/excelerate-internship/blob/main/week1/Week1_Muneeza_Team5.pdf
 
 ---
 
