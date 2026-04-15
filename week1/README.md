@@ -37,7 +37,7 @@ This project focuses on understanding dataset structure, cleaning data, and inte
 ## 📸 Screenshots
 
 ### Dataset Understanding
-week1/Data Cleaning & Preprocessing.png
+![Dataset](Dataset.png)
 
 ### Data Cleaning
 ![Cleaning](Data Cleaning & Preprocessing.png)
