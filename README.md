@@ -1,42 +1,37 @@
 # 🚀 Excelerate Internship Portfolio
 
-Hi, I'm Muneeza 👋  
+Hi, I'm **Muneeza** 👋
 This repository showcases my work from the **Excelerate Data Analytics Internship**.
 
 ---
 
-## 📊 Week 1: Data Analysis & Integration
+## 📊 My Work
 
-In Week 1, we worked on understanding dataset structure, assessing data quality, and integrating multiple systems using PostgreSQL.
+### 📁 Week 1: Data Analysis & Integration
 
-### 🔹 Key Work:
-- Dataset Overview & Documentation  
-- Data Cleaning & Preprocessing  
-- Handling Missing Values & Data Inconsistencies  
-- Data Integration using SQL (Relational Database)  
+* Data cleaning & preprocessing
+* Handling missing values
+* SQL-based data integration
 
-📁 Explore full project:  
-👉 [Week 1 Folder](./week1)
-
-📄 Full Report:  
-👉 https://github.com/analyst-muneeza/excelerate-internship/blob/main/week1/Week1_Muneeza_Team5.pdf
+📄 [View Report](./week1/Week1_Muneeza_Team5.pdf)
 
 ---
 
-## 🛠 Tools & Technologies:
-- SQL (PostgreSQL)  
-- Excel  
-- Data Cleaning  
-- Data Analysis  
+### 📁 Week 2: Eligibility & Enrollment Analysis
+
+* Funnel & conversion analysis
+* Intake & country comparisons
+* Engagement vs outcome insights
+
+📄 [View Report](./week2/Week2_Muneeza_Team5.pdf)
 
 ---
 
-## 📌 Key Insights:
-- Integrated multiple datasets (Applicant, Connect, SEVIS)  
-- Identified missing values and data gaps  
-- Built relationships using primary & foreign keys  
-- Ensured data consistency and integrity  
+## 🛠 Tools
+
+SQL (PostgreSQL) • Excel • Data Analysis • Visualization
 
 ---
 
 ✨ More updates coming soon...
+
