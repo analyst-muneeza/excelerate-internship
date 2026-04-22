@@ -65,4 +65,6 @@ By focusing on engagement, financial support, and process improvements, conversi
 
 ---
 
+📄 [View Full Report](./Week2_Muneeza_Team5.pdf)
+
 ✨ This project strengthened my ability to turn raw data into **actionable business insights**.
