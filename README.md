@@ -29,7 +29,7 @@ This repository showcases my work from the **Excelerate Data Analytics Internshi
 
 ## 🛠 Tools
 
-SQL (PostgreSQL) • Excel • Data Analysis • Visualization
+SQL (PostgreSQL) • Excel • Data Analysis • Visualization •Looker Studio
 
 ---
 
