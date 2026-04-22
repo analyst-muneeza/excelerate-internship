@@ -33,6 +33,7 @@ This project focuses on understanding dataset structure, cleaning data, and inte
 - Strong relational structure achieved after integration  
 
 ---
+📄 [View Full Report](./Week1_Muneeza_Team5.pdf)
 
 ## 📄 Report
 Full detailed report available in this folder.
