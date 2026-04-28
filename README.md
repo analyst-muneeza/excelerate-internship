@@ -26,6 +26,17 @@ This repository showcases my work from the **Excelerate Data Analytics Internshi
 📄 [View Report](./week2/Week2_Muneeza_Team5.pdf)
 
 ---
+## 📊 Week 3: Dashboard & Compliance Analysis
+
+* Built interactive dashboard using Looker Studio
+* Analyzed 34K+ records for compliance tracking
+* Validated KPIs using SQL queries
+* Identified key gaps in I-20 issuance, deposits & SEVIS linkage
+
+📄 [View Report](week3/Week3_Muneeza_Team5.pdf)
+
+---
+
 
 ## 🛠 Tools
 
