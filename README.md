@@ -37,12 +37,39 @@ This repository showcases my work from the **Excelerate Data Analytics Internshi
 
 ---
 
+---
+
+# 🚀 Week 4: Final Presentation & Project Conclusion
+
+- Delivered final presentation for International Student Compliance Analytics project
+- Presented dashboard insights, KPI trends, and compliance findings
+- Shared institutional risk analysis and data-driven recommendations
+- Demonstrated end-to-end analytics workflow from raw data to visualization
+
+📄 [View Final Presentation](week4/Week4_Team5.pdf)
+
+🎥 [Video Presentation](https://drive.google.com/file/d/1-kccmavZUVPzJ1cotaTfWYApV6nOdW-N/view?usp=drive_link)
+
+📊 [Live Dashboard](https://datastudio.google.com/s/l0fCNxgo0Ds)
+
+---
+
+# ✅ Internship Outcome
+
+During this internship, I worked on real-world international student compliance analytics using SQL, PostgreSQL, Looker Studio, and data visualization techniques.
+
+Key skills developed:
+- Data Cleaning & Validation
+- SQL Querying
+- Dashboard Development
+- KPI & Trend Analysis
+- Data Visualization
+- Business Insights & Reporting
+
+This project strengthened my practical understanding of end-to-end data analytics workflows and compliance-focused reporting.
 
 ## 🛠 Tools
 
 SQL (PostgreSQL) • Excel • Data Analysis • Visualization •Looker Studio
 
----
-
-✨ More updates coming soon...
 
