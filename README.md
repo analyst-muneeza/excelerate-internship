@@ -5,10 +5,9 @@ This repository showcases my work from the **Excelerate Data Analytics Internshi
 
 ---
 
-## 📊 My Work
+📊 My Work
 
-### 📁 Week 1: Data Analysis & Integration
-
+📁 Week 1: Data Analysis & Integration
 * Data cleaning & preprocessing
 * Handling missing values
 * SQL-based data integration
@@ -17,8 +16,7 @@ This repository showcases my work from the **Excelerate Data Analytics Internshi
 
 ---
 
-### 📁 Week 2: Eligibility & Enrollment Analysis
-
+📁 Week 2: Eligibility & Enrollment Analysis
 * Funnel & conversion analysis
 * Intake & country comparisons
 * Engagement vs outcome insights
@@ -26,8 +24,7 @@ This repository showcases my work from the **Excelerate Data Analytics Internshi
 📄 [View Report](./week2/Week2_Muneeza_Team5.pdf)
 
 ---
-## 📊 Week 3: Dashboard & Compliance Analysis
-
+📊 Week 3: Dashboard & Compliance Analysis
 * Built interactive dashboard using Looker Studio
 * Analyzed 34K+ records for compliance tracking
 * Validated KPIs using SQL queries
@@ -36,11 +33,7 @@ This repository showcases my work from the **Excelerate Data Analytics Internshi
 📄 [View Report](week3/Week3_Muneeza_Team5.pdf)
 
 ---
-
----
-
-# 🚀 Week 4: Final Presentation & Project Conclusion
-
+🚀 Week 4: Final Presentation & Project Conclusion
 - Delivered final presentation for International Student Compliance Analytics project
 - Presented dashboard insights, KPI trends, and compliance findings
 - Shared institutional risk analysis and data-driven recommendations
@@ -53,8 +46,7 @@ This repository showcases my work from the **Excelerate Data Analytics Internshi
 📊 [Live Dashboard](https://datastudio.google.com/s/l0fCNxgo0Ds)
 
 ---
-
-# ✅ Internship Outcome
+✅ Internship Outcome
 
 During this internship, I worked on real-world international student compliance analytics using SQL, PostgreSQL, Looker Studio, and data visualization techniques.
 
@@ -68,7 +60,7 @@ Key skills developed:
 
 This project strengthened my practical understanding of end-to-end data analytics workflows and compliance-focused reporting.
 
-## 🛠 Tools
+🛠 Tools
 
 SQL (PostgreSQL) • Excel • Data Analysis • Visualization •Looker Studio
 
