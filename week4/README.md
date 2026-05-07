@@ -34,7 +34,8 @@ The presentation summarizes the complete analytical journey from data preparatio
 ## Outcome
 Developed an end-to-end compliance analytics solution to identify operational gaps, monitor KPIs, and provide actionable recommendations for improving international student compliance processes.
 
-• Video Presentation Link: 
-https://drive.google.com/file/d/1
-kccmavZUVPzJ1cotaTfWYApV6nOdW-N/view?usp=drive_link
-• Live Dashboard Link: https://datastudio.google.com/s/l0fCNxgo0Ds
+## Resources
+
+- [Video Presentation](https://drive.google.com/file/d/1-kccmavZUVPzJ1cotaTfWYApV6nOdW-N/view?usp=drive_link)
+
+- [Live Dashboard](https://datastudio.google.com/s/l0fCNxgo0Ds)
