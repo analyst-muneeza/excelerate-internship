@@ -17,7 +17,9 @@ Contains cleaned SEVIS-related records for exploratory data analysis.
 The datasets in this folder are used for:
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
-- Visualization
+- Data Visualization
+- PostgreSQL 
+- Looker Studio Dashboards
 - Internship Tasks & Projects
 
 ## Author
