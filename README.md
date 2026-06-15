@@ -64,4 +64,10 @@ This project strengthened my practical understanding of end-to-end data analytic
 
 SQL (PostgreSQL) • Excel • Data Analysis • Visualization •Looker Studio
 
+## 🏆 Achievements & Certifications
+
+- 🥇 [Star Performer Award](https://github.com/analyst-muneeza/excelerate-internship/blob/main/Star%20Performer%20Award.png)
+
+- 📜 [Certificate of Achievement – Data Visualization Associate Early Remote Internship](https://github.com/analyst-muneeza/excelerate-internship/blob/main/Data%20Visualization%20Associate%20Early%20Remote%20Internship%20Star%20Performer.pdf)
+
 
